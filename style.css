@@ -9,7 +9,7 @@ html:after,
 body:before,
 body:after {
   content: "";
-  background: #4c36d8;
+  background: #008db7;
   position: fixed;
   display: block;
   z-index: 1;
