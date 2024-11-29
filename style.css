@@ -182,14 +182,14 @@ introduction
 }
 
 #color .content {
-  background-color: #4c36d8;
+  background-color: #008db7;
 }
 #box{
   width: 30px;
 }
 
 .favorite-color{
-  color: #4c36d8;
+  color: #008db7;
 }
 
 
@@ -217,7 +217,7 @@ footer
     bottom: -10px;
     right: 0;
     border-top: 5em solid transparent;
-    border-right: 5em solid #4c36d8; /* ラベルの色はここで変更 */
+    border-right: 5em solid #008db7; /* ラベルの色はここで変更 */
     z-index: 100;
 }
 .triangle::after {
